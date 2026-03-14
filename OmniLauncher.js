@@ -1425,4 +1425,4 @@ async function main() {
 
   await gui.render();
 }
-
+await main();
